@@ -24,7 +24,7 @@ Skills:  HTML / CSS / JS / BOOTSTRAP / WORDPRESS /
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Arifulislam7725/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Arifulislam7725)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Arifulislam7725)  
+
+
 
